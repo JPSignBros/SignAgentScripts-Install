@@ -4,9 +4,11 @@
 // @version      1.0.0
 // @description  Production wrapper around the immutable Batch Place v1.0.0 baseline with human-readable Batch Details and Save All confirmation labels.
 // @match        https://app.signagent.com/*
+// @updateURL    https://github.com/JPSignBros/SignAgentScripts-Install/raw/refs/heads/main/SignAgentBatchPlaceFriendlyNames.user.js
+// @downloadURL  https://github.com/JPSignBros/SignAgentScripts-Install/raw/refs/heads/main/SignAgentBatchPlaceFriendlyNames.user.js
 // @run-at       document-start
 // @grant        unsafeWindow
-// @require      https://raw.githubusercontent.com/JPSignBros/SignAgentScripts/ed659e54c845c408a9efd7479b3b84552d20cb82/SignAgentBatchPlace.user.js
+// @require      https://raw.githubusercontent.com/JPSignBros/SignAgentScripts-Install/ed659e54c845c408a9efd7479b3b84552d20cb82/SignAgentBatchPlace.user.js
 // ==/UserScript==
 
 'use strict';
