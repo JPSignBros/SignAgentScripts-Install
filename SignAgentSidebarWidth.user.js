@@ -4,6 +4,8 @@
 // @version      1.0.0
 // @description  Makes the SignAgent Projects / Locations / Sign Types sidebar resizable and remembers the preferred width.
 // @match        https://app.signagent.com/*
+// @updateURL    https://github.com/JPSignBros/SignAgentScripts-Install/raw/refs/heads/main/SignAgentSidebarWidth.user.js
+// @downloadURL  https://github.com/JPSignBros/SignAgentScripts-Install/raw/refs/heads/main/SignAgentSidebarWidth.user.js
 // @run-at       document-idle
 // @grant        none
 // ==/UserScript==
