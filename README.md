@@ -42,4 +42,4 @@ Makes the Projects / Locations / Sign Types sidebar resizable and remembers the 
 
 ## Historical dependency
 
-`SignAgentBatchPlace.user.js` is the frozen Batch Place v1.0.0 baseline imported from Tyler Sedacca's known-good source. It remains public because the approved Friendly Names wrapper loads its immutable import commit. It is not a separate employee installation.
+`SignAgentBatchPlace.user.js` is the frozen, known-good Batch Place v1.0.0 baseline. It remains public because the approved Friendly Names wrapper loads its immutable import commit. It is not a separate employee installation.
