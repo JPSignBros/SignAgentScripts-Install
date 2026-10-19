@@ -5,9 +5,10 @@ Use this page to install or refresh the approved Sign Brothers Tampermonkey tool
 ## Before you begin
 
 1. Install and enable [Tampermonkey from the Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
-2. Open each **Install / Update** link below in Chrome.
-3. Tampermonkey will open a confirmation screen. Choose **Install** or **Update**.
-4. Refresh SignAgent after installing both tools.
+2. In Chrome, open **Extensions → Tampermonkey → Manage Extension** and enable **Allow User Scripts**. If that setting is missing, follow [Tampermonkey's permission instructions](https://www.tampermonkey.net/faq.php?q=Q209).
+3. Open each **Install / Update** link below in Chrome.
+4. Tampermonkey will open a confirmation screen. Choose **Install** or **Update**.
+5. Refresh SignAgent after installing both tools.
 
 > Tampermonkey requires a separate confirmation for each independent userscript. This repository page is the single company-shareable starting link.
 
